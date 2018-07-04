@@ -1,3 +1,4 @@
+<p align="center"> <h1><pre>               School Management web Application with </pre></h1></p>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
